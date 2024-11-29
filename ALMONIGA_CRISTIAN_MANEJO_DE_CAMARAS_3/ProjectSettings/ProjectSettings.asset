@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: e06850170919d8843b4ae13bc92b2dd5
+  productGUID: 9b41bb17e5856a745886488235bf4a3b
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -754,10 +754,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 2543a106-55b2-4725-8739-0772a47775ea
+  cloudProjectId: 02b5b387-59a7-4117-97dc-6e5c666e815e
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: ALMONIGA_CRISTIAN_MANEJO_DE_CAMARAS_3
+  projectName: ALMONIGA_CRISTIAN_MANEJO_DE_CAMARAS_3 2024-11-28_22-01-18
   organizationId: unity_1bfjy2ooi0j3xa
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
